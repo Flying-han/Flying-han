@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">A full stack learner👨‍💻,mechanical engineering undergraduate student at DJTU.Now,I am working for SKEET_Studio.An amateur volleyball and skiing enthusiast.My exploration journey since 2014.🚀</div>  
+### <div align="center">A full stack learner👨‍💻,mechanical engineering undergraduate student.Now,I am working for SKEET_Studio.An amateur volleyball and skiing enthusiast.My exploration journey since 2014.🚀</div>  
   
 
 - 🔭 I’m currently working for [SKEET_Studio](https://www.skeet.top).  
