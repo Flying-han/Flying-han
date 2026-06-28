@@ -11,7 +11,7 @@
 - 🔭 I’m currently working for [SKEET_Studio](https://www.skeet.top).  
   
 
-- 🌱 I’m currently learning Kubernetes/Cloud-Native/Mechanical-Engineering and so on.  
+- 🌱 I’m currently learning MATLAB/SOLIDWORKS/Cloud-Native/Mechanical-Engineering and so on.  
   
 
 - ❓ Ask me about anything you wanna know,I 'll reply randomly.:D  
